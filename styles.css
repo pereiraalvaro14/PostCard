@@ -2,7 +2,7 @@ body {
 	background: black;
 }
 * {
-	border: 1px dashed red;
+	border: 1px dashed green;
 	min-height: 10px;
 }
 .postcard {
